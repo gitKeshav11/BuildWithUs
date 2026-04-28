@@ -49,33 +49,6 @@ Then this README will show them automatically:
 ### Home Page
 ![Home](./BuildWithUs-Frontend/assets/screenshots/home-preview.png)
 
-### Sign In Page
-![Sign In Page](docs/screenshots/sign-in-page.png)
-
-### Developers Page
-![Developers Page](docs/screenshots/developers-page.png)
-
-### Projects Page
-![Projects Page](docs/screenshots/projects-page.png)
-
-### Jobs Page
-![Jobs Page](docs/screenshots/jobs-page.png)
-
-### Dashboard Page
-![Dashboard Page](docs/screenshots/dashboard-page.png)
-
-### AI Chat Page
-![AI Chat Page](docs/screenshots/ai-chat-page.png)
-
-### AI Code Review Page
-![AI Code Review Page](docs/screenshots/ai-code-review-page.png)
-
-> Recommended screenshot size: `1440 × 900` or `1366 × 768`.
-
----
-
-## ✨ Main Features
-
 ### Backend Features
 
 - User registration and login
