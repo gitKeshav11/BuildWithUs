@@ -886,12 +886,24 @@ git push origin feature/your-feature-name
 6. Open a pull request
 
 ---
+## 👨‍💻 Author & Contributors
 
-## 👨‍💻 Author
+<p align="center">
+  <a href="https://github.com/gitKeshav11/BuildWithUs/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=gitKeshav11/BuildWithUs" />
+  </a>
+</p>
 
-**Keshav Upadhyay**  
-Aspiring Software Developer | Backend Enthusiast
+---
 
+## 📞 Contact
+
+### 👨‍💻 Keshav Upadhyay  
+**🚀 Role:** Backend Developer (Java & Spring Boot)  
+
+📧 **Email:** [gitKeshav11@gmail.com](mailto:gitKeshav11@gmail.com)  
+🔗 **LinkedIn:** [Keshav Upadhyay](https://www.linkedin.com/in/gitKeshav11/)  
+🐙 **GitHub:** [gitKeshav11](https://github.com/gitKeshav11)  
 ---
 
 ## 📄 License
