@@ -47,7 +47,7 @@ BuildWithUs-Frontend-main/docs/screenshots/
 Then this README will show them automatically:
 
 ### Home Page
-![Home Page](docs/screenshots/home-page.png)
+![Home](./BuildWithUs-Frontend/assets/screenshots/home-preview.png)
 
 ### Sign In Page
 ![Sign In Page](docs/screenshots/sign-in-page.png)
