@@ -30,12 +30,7 @@ This repository contains only the **frontend client** of BuildWithUs. It communi
 ---
 
 ## 🖼️ Frontend Screenshots
-
-> Add more screenshots in the `screenshots/` folder and update the paths below.
-
-### Home / Landing Preview
-
-![Home Preview](./screenshots/home-preview.png)
+![Home](./BuildWithUs-Frontend/assets/screenshots/home-preview.png)
 
 Recommended screenshot list for GitHub README:
 
