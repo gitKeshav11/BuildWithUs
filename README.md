@@ -3,7 +3,6 @@
 <p align="center">
   <b>Developer Social Network • Projects • Jobs • Hackathons • Team Finder • AI Chat • AI Code Review</b>
 </p>
-
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React%2019-61DAFB?style=for-the-badge&logo=react" />
   <img src="https://img.shields.io/badge/Vite-7.3.1-646CFF?style=for-the-badge&logo=vite" />
